@@ -1,8 +1,8 @@
 Vijay Halagani
 ======================================================================================================================================
 
-Data Analyst/Science/ML
------------------------
+Data Analyst-Scientist/Machine Learning
+---------------------------------------
 
 Career in data analyst learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. Excellent knowledge in Python and its data analysis libraries (NumPy, pandas, Matplotlib), MYSQL, VBA programming, PowerBI and Advanced Excel as I build a portfolio of projects. Tips: For data science projects with python, I would recommend you to install NumPy , Pandas , SciPy , scikit learn , matplotlib , seaborn the basic libraries.
 
