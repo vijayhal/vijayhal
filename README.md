@@ -8,7 +8,7 @@ Career in data analyst learn to clean and organize data, uncover patterns and in
 
 * 🌍  I'm based in Goa, India
 * ✉️  You can contact me at [vijayhalagani@gmail.com](mailto:vijayhalagani@gmail.com)
-* 🧠  I'm learning Machine learning, Tableau
+* 🧠  I'm learning ML algorithms, Tableau
 * 🤝  I'm open to collaborating on Data Analysis, Python Project and ML Algorithms
 
 <a href="https://www.github.com/vijayhal" target="_blank" rel="noreferrer"><img
